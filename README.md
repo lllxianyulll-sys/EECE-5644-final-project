@@ -7,7 +7,7 @@ predict hourly bike-sharing demand across Chicago community areas.
 ## Data Sources
 - **Divvy Trip Data (December 2023)**  
   Provided by Lyft/Divvy Open Data Portal.  
-  URL: https://divvy-tripdata.s3.amazonaws.com/202312-divvy-tripdata.zip
+  URL: https://www.kaggle.com/datasets/noeyislearning/divvy-bike-sharing-rides?resource=download
 
 - **Chicago Weather Data**  
   Source: Chicago Weather Database (Kaggle).  
