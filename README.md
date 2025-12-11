@@ -49,7 +49,9 @@ This script will:
 	Evaluate performance using R² and RMSE
 	Print summary results to the console
 
-
+Notes:
+	Some datasets (Divvy trips, Chicago community boundaries, weather data) are too large to upload to GitHub. must download them manually from their official sources.
+	The script may take several minutes to run due to GridSearchCV and multi-output models.
 
 
 
